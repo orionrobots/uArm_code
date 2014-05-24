@@ -7,3 +7,5 @@ uArm Helper code - stuff to do instead of beeping
 
 This code comes with no warranty or guarantees of any kind. It could be fun, and it may caused your servo's to go to an incorrect position - I found the gripper quite twitchy - if fully closed is 90 - make sure all value's are below 90.
 The assembly guide shows the servo positions - but you will need to tweak this code for your uArm.
+
+This does not require the mouse control app, the uArm library or calibration code from uFactory. You may need to manually calibrate it if your servo's are not quite at the positions in the uArm assembly guide.
