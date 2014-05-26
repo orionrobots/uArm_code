@@ -14,10 +14,9 @@ void setup() {
   pinMode(buttonb, INPUT);
   gripper.attach(9);
   wrist.attach(10);
-  elbow.attach(11);
-  shoulder.attach(12);
-  base.attach(13);
-  
+  base.attach(11);
+  elbow.attach(12);
+  shoulder.attach(13);
 }
 
 void loop() {
